@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154697083686",
+    "project_id": "rentacarapp-6009e",
+    "storage_bucket": "rentacarapp-6009e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154697083686:android:c892e873bbbcdf45e3afe7",
+        "android_client_info": {
+          "package_name": "org.meicode.rentacarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154697083686-oe33ai9c4qjtflsqqlk4k5c59s06a0rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAByf13N8ptUBTLZsNTTvQZnohHG9ulfjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154697083686-oe33ai9c4qjtflsqqlk4k5c59s06a0rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
